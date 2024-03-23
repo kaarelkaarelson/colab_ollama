@@ -10,7 +10,7 @@ Utilize Google Colab GPU to run Ollama models.
 
 [https://ngrok.com/](https://ngrok.com/)
 
-## 3. Upload colab_ollama.ipynb to your google drive to utilize GPU.
+## 3. Upload colab_ollama.ipynb to your Google Drive
 
 Add ngrok token to the notebook.
 
