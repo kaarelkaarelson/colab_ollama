@@ -1,5 +1,7 @@
 # Colab Ollama
 
+Utilize Google Colab GPU to run Ollama models.
+
 ## 1. Install Ollama on your computer
 
 [https://ollama.com/download](https://ollama.com/download)
